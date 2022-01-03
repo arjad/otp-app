@@ -1,0 +1,19 @@
+.otp-box{
+    width:50px;
+    height:50px;
+
+    padding: 0px;
+    border:1px solid black;
+    margin-right: 10px;
+    position: relative;
+}
+.otp-box > input{
+    margin-right: 10px;
+    border:none;
+    transform: scale(1.6);
+    position: absolute;
+    left: 15px;
+}
+.otp-box > input:focus{
+    outline: none;
+}
