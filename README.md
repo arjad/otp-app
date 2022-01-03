@@ -1,2 +1,2 @@
 # otp-app
-react app
+react app to authenticate phone number by firebase
